@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DiepGame/Scenes/LobbyScenne.unity
+    guid: 28a9a0c666dba2343842d0cd97a4a1fd
+  - enabled: 1
+    path: Assets/DiepGame/Scenes/Game.unity
+    guid: 28a8ec9b46545b145b874f97d2a769db
+  m_configObjects: {}
